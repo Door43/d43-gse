@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gse:home|Door43 (gse)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gse|d43-gse repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gse/archive/master.zip|d43-gse.zip]]
+
+**Recent Changes**
+{{changes>ns = gse}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gse|Ethnologue data]]
+
